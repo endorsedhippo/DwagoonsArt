@@ -1,0 +1,12 @@
+Dragon animations;
+
+
+0: Bind pose
+
+1-46: Take-off
+47-92: Hover
+94-144: Kick/scratch
+160-170: look left (and back again)
+170-180: look right (and back again)
+180-190: look up (and back again)
+190-200: look down (and back again)
