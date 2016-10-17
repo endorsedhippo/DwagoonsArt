@@ -1,0 +1,24 @@
+Dragon animations;
+
+
+0: Bind pose
+
+2-50:		Grounded IDLE		(LOOP)
+52-60:		Transition- IDLE to Run
+61-105:		Run			(LOOP)
+109-154:	Take-Off/Land
+155-201:	Hover			(LOOP)
+202-251:	Kick			(LOOP?)
+254-291:	Fast Fly Forward	(LOOP)
+293-329:	Fast Fly Left		(LOOP)
+332-368:	Fast Fly Right		(LOOP)
+369-395:	Dodge Back		(LOOP)
+399-431:	Transition- Hover to Charge
+431-452:	Charging		(LOOP)
+453-487:	Transition- Charge to Hover
+489-529:	Death- Flying
+531-574:	Death- Grounded
+600-605:	Look- Left
+610-615:	Look- Right
+620-625:	Look- Up
+630-635:	Look- Down
